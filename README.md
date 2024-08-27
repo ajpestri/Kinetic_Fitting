@@ -4,18 +4,22 @@
 Fit data with a kinetic model.
 Input data file and model file (contains species, rate constants, and equations for the model)
 
-Instructions
+**Instructions**
 
-Click Button above to open Matlab Online. Sign in with an existing Mathworks account, or create one. A license is not needed, this program can be run on the free online version.
+1) Click Button above to open Matlab Online. Sign in with an existing Mathworks account, or create one. A license is not needed, this program can be run on the free online version.
 
-Accept access to the repository.
+2) Accept access to the repository.
 
-Double click Diff_Solve_Sim_Num_Mk2_Sep.m to open it. Do not worry about the code block that appears.
+3) Double click Kinetic_Fit.m from the left window to open it.
 
-Click the Run (Play) button in the Edit tab of the toolbar.
+4) Click the Run (Play) button in the Edit tab of the toolbar. You may have to click into the code window to get this to appear.
+![image](https://github.com/user-attachments/assets/2dfa7267-d728-4256-88a3-a645a678e582)
 
-When prompted select one of the included Data files
+5) When prompted select one of the included Data files
 
-Select one of the included Model files
+6) Select one of the included Model files
 
 The resulting fit will be shown in a new window.
+
+The data from the fit is written to a file and saved with the other files. You can open or download it for further processing.
+A new fit can be run by simply clicking Run again. If the Run button is not present click into the code window to make the Edit tab appear.
