@@ -1,0 +1,11 @@
+A B C D E F G H
+kca kcb kdc ked kfe kge khe
+kca*C
+kcb*C
+kdc*D-kca*C-kcb*C
+ked*E-kdc*D
+kfe*F+kge*G+khe*H-ked*E
+-kfe*F
+-kge*G
+-khe*H
+1,1,1,1,1,1,1,1
