@@ -11,6 +11,7 @@ Input data file and model file (contains species, rate constants, and equations 
 2) Accept access to the repository.
 
 3) Double click Kinetic_Fit.m from the left window to open it.
+   
 ![image](https://github.com/user-attachments/assets/7a86f207-87eb-457e-b212-b36c3715da6a)
 
 5) Click the Run (Play) button in the Edit tab of the toolbar. You may have to click into the code window to get this to appear.
