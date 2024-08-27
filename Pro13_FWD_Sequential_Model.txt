@@ -1,0 +1,11 @@
+A B C D E F G H
+kab kbc kcd kde kef keg keh
+-kab*A
+kab*A-kbc*B
+kbc*B-kcd*C
+kcd*C-kde*D
+kde*D-kef*E-keg*E-keh*E
+kef*E
+keg*E
+keh*E
+1,1,1,1,1,1,1,1
